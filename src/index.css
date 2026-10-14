@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #1f1836;
+  --color-mauve: #6039ad;
+  --color-lavender: #faf8ff;
+}
